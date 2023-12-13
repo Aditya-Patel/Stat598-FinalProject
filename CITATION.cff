@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Patel"
+  given-names: "Aditya"
+  orcid: "https://orcid.org/0009-0000-1302-3605"
+- family-names: "Vu"
+  given-names: "Bach Tien"
+- family-names: "Chadburn"
+  given-names: "Nathan"
+title: "ETF Daily Price Forecast"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-12-13
+url: "https://github.com/Aditya-Patel/Stat598-FinalProject"
